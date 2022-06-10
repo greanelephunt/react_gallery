@@ -1,0 +1,11 @@
+.album__header{
+    margin-top: 3rem;
+    font-size: 2rem;
+    border-bottom: 0.25rem solid #dbebff;
+    color: #dbebff;
+}
+
+.album__wrapper{
+display: flex;
+flex-wrap: wrap;
+}
